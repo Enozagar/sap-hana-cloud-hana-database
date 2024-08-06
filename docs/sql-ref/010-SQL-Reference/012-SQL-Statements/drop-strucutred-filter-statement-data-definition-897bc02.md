@@ -1,6 +1,6 @@
 <!-- loio897bc02cfb274a54a2661ffde9f97c76 -->
 
-# DROP STRUCUTRED FILTER Statement \(Data Definition\)
+# DROP STRUCTURED FILTER Statement \(Data Definition\)
 
 Drop an existing structured filter.
 
